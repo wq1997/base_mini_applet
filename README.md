@@ -1,0 +1,1 @@
+# base_mini_applet
